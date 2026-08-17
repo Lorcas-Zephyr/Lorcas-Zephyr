@@ -1,0 +1,50 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Lorcas Zephyr</title>
+  <desc id="desc">A geometric engineering banner for Lorcas Zephyr's GitHub profile.</desc>
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="300" rx="8"/>
+    </clipPath>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#30363D" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#0D1117"/>
+    <rect width="1200" height="300" fill="url(#grid)" opacity="0.55"/>
+
+    <path d="M707 20L832 50L790 135L659 113Z" fill="#132C3F" stroke="#58A6FF" stroke-width="2.5"/>
+    <path d="M832 50L981 23L1007 119L790 135Z" fill="#153527" stroke="#3FB950" stroke-width="2.5"/>
+    <path d="M981 23L1161 57L1114 143L1007 119Z" fill="#362620" stroke="#F78166" stroke-width="2.5"/>
+    <path d="M659 113L790 135L748 249L611 223Z" fill="#1A3042" stroke="#58A6FF" stroke-width="2.5"/>
+    <path d="M790 135L1007 119L942 229L748 249Z" fill="#173828" stroke="#3FB950" stroke-width="2.5"/>
+    <path d="M1007 119L1114 143L1176 252L942 229Z" fill="#3A2922" stroke="#F78166" stroke-width="2.5"/>
+    <path d="M748 249L942 229L1036 296L704 296Z" fill="#19222B" stroke="#8C959F" stroke-width="2.5"/>
+
+    <circle cx="707" cy="20" r="4" fill="#58A6FF"/>
+    <circle cx="832" cy="50" r="4" fill="#3FB950"/>
+    <circle cx="981" cy="23" r="4" fill="#F78166"/>
+    <circle cx="790" cy="135" r="4" fill="#E6EDF3"/>
+    <circle cx="1007" cy="119" r="4" fill="#E6EDF3"/>
+    <circle cx="748" cy="249" r="4" fill="#58A6FF"/>
+    <circle cx="942" cy="229" r="4" fill="#3FB950"/>
+
+    <rect x="62" y="48" width="44" height="4" fill="#3FB950"/>
+    <rect x="112" y="48" width="18" height="4" fill="#58A6FF"/>
+    <text x="62" y="121" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="51" font-weight="700" letter-spacing="0">LORCAS ZEPHYR</text>
+    <text x="65" y="163" fill="#8C959F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="0">BUILDING USEFUL THINGS, END TO END.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0">
+      <rect x="62" y="205" width="139" height="33" rx="4" fill="#161B22" stroke="#30363D"/>
+      <circle cx="80" cy="221.5" r="4" fill="#F78166"/>
+      <text x="92" y="226" fill="#C9D1D9">ANDROID</text>
+      <rect x="211" y="205" width="151" height="33" rx="4" fill="#161B22" stroke="#30363D"/>
+      <circle cx="229" cy="221.5" r="4" fill="#3FB950"/>
+      <text x="241" y="226" fill="#C9D1D9">GEOMETRY AI</text>
+      <rect x="372" y="205" width="104" height="33" rx="4" fill="#161B22" stroke="#30363D"/>
+      <circle cx="390" cy="221.5" r="4" fill="#58A6FF"/>
+      <text x="402" y="226" fill="#C9D1D9">WEB</text>
+    </g>
+  </g>
+</svg>

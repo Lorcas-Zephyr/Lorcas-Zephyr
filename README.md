@@ -1,8 +1,12 @@
-<div align="center">
+<p align="center">
   <a href="https://github.com/Lorcas-Zephyr">
-    <img src="https://cdn.jsdelivr.net/gh/Lorcas-Zephyr/Lorcas-Zephyr@main/assets/header.png?v=2" width="100%" alt="Lorcas Zephyr - building useful things, end to end" />
+    <img src="https://avatars.githubusercontent.com/u/236957276?v=4" width="112" alt="Lorcas Zephyr" />
   </a>
-</div>
+</p>
+
+<h1 align="center">Lorcas Zephyr</h1>
+
+<p align="center"><code>PRODUCT ENGINEERING</code> · <code>GEOMETRY AI</code> · <code>WEB</code></p>
 
 <p align="center">
   <a href="https://github.com/Lorcas-Zephyr?tab=repositories"><img alt="Open source projects" src="https://img.shields.io/badge/Open%20Source-Projects-24292f?style=flat-square&logo=github" /></a>

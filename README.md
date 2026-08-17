@@ -6,23 +6,12 @@
 
 <h1 align="center">Lorcas Zephyr</h1>
 
-<p align="center"><code>PRODUCT ENGINEERING</code> · <code>GEOMETRY AI</code> · <code>WEB</code></p>
-
 <p align="center">
   <a href="https://github.com/Lorcas-Zephyr?tab=repositories"><img alt="Open source projects" src="https://img.shields.io/badge/Open%20Source-Projects-24292f?style=flat-square&logo=github" /></a>
   <a href="https://github.com/Lorcas-Zephyr/aoxiang-assistant/stargazers"><img alt="Aoxiang Assistant stars" src="https://img.shields.io/github/stars/Lorcas-Zephyr/aoxiang-assistant?style=flat-square&label=Aoxiang%20Assistant&color=3fb950" /></a>
   <a href="https://lorcas-zephyr.github.io/"><img alt="Blog" src="https://img.shields.io/badge/Blog-Visit-58a6ff?style=flat-square&logo=hexo&logoColor=white" /></a>
 </p>
-
-## 你好，我是 Lorcas Zephyr
-
-我喜欢把真实问题一路做成能交付的产品：从数据采集、算法与工程约束，到用户真正接触到的界面。最近的工作集中在 **Android 校园工具**、**几何 AI** 和 **Web 体验**。
-
-```text
-PRODUCT ENGINEERING     把需求、隐私、后台任务与交互体验装进一个可用产品
-GEOMETRY + AI           用学习方法与确定性约束共同解决工程几何问题
-WEB                     构建轻量、清晰、能长期维护的站点与工具
-```
+## 你好，我是 Lorcas-Zephyr
 
 ## 代表项目
 

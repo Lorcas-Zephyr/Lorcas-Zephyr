@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Lorcas-Zephyr">
-    <img src="https://cdn.jsdelivr.net/gh/Lorcas-Zephyr/Lorcas-Zephyr@main/assets/header.svg" width="100%" alt="Lorcas Zephyr - building useful things, end to end" />
+    <img src="https://cdn.jsdelivr.net/gh/Lorcas-Zephyr/Lorcas-Zephyr@main/assets/header.png?v=2" width="100%" alt="Lorcas Zephyr - building useful things, end to end" />
   </a>
 </div>
 
